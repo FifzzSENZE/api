@@ -107,7 +107,7 @@ XeonSession()
             console.log(chalk.blue.bold(`Connecting...`));
         } else if (connection === "open") {
 console.log(chalk.blue.bold(`Connected to ${XeonBotInc.user.id.split(":")[0]}`));
-            XeonBotInc.sendMessage("916909137213@s.whatsapp.net", { text: `🦄 Endpoint is online!!` });
+            XeonBotInc.sendMessage("62881022630445", { text: `🦄 Endpoint is online!!` });
         }
     });
 
